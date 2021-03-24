@@ -25,7 +25,8 @@ Country Index is an app able to search a country by name or ISO code using JSON 
 * Perform URLSession connection.
 
 
-## What would be my enhancements for this app in the future:
+
+## The future enhancements for this app:
 
 -  Addition of an extra screen to show information about the country clicked.
 -  Addition of spinner to show the loading time.
