@@ -21,8 +21,8 @@
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch" translatesAutoresizingMaskIntoConstraints="NO" id="bXX-9g-CzV">
                                         <rect key="frame" x="20" y="23" width="374" height="431"/>
                                     </imageView>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="title" translatesAutoresizingMaskIntoConstraints="NO" id="f2y-6W-b1W">
-                                        <rect key="frame" x="87" y="414" width="240" height="128"/>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="title" translatesAutoresizingMaskIntoConstraints="NO" id="f2y-6W-b1W">
+                                        <rect key="frame" x="87" y="426" width="240" height="128"/>
                                     </imageView>
                                 </subviews>
                                 <color key="backgroundColor" red="0.4473786354" green="0.3780154288" blue="0.83454543349999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
