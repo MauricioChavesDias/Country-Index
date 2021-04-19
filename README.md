@@ -15,7 +15,7 @@ Country Index is an app able to search a country by name or ISO code using JSON 
 
 
 
-## What I learned with this app
+## What I learned building this app
 
 * More about TableView and SearchBar
 * Use of Delegates
